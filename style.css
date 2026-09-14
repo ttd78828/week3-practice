@@ -26,3 +26,20 @@ h3 {
 p {
   font-size: 1 rem;
 }
+main {
+  max-width: 800 px;
+  margin: 0 auto;
+  padding: 40 px 20 px;
+}
+h2 {
+  margin-bottom: 8 px;
+}
+p {
+  margin-bottom: 32 px;
+}
+footer {
+  text-align: center;
+  font-size: 0.875 rem;
+  color: #666666;
+  padding: 20 px;
+}
