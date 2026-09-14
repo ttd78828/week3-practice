@@ -52,3 +52,19 @@ footer {
   border-radius: 4 px;
   margin-top: 24 px;
 }
+.swatch {
+  display: inline-block;
+  width: 120 px;
+  height: 80 px;
+  margin-bottom: 8 px;
+  border-radius: 4 px;
+  vertical-align: top;
+}
+.swatch-primary { background-color: #2f4a3d; }
+.swatch-neutral { background-color: #262220; }
+.swatch-accent { background-color: #c1652b; }
+.swatch-cta { background-color: #a8541f; }
+.type-sample-h1 { font-size: 2.5 rem; }
+.type-sample-h2 { font-size: 1.75 rem; }
+.type-sample-h3 { font-size: 1.25 rem; }
+.type-sample-body { font-size: 1 rem; }
