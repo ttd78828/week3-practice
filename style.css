@@ -43,3 +43,12 @@ footer {
   color: #666666;
   padding: 20 px;
 }
+.cta {
+  display: inline-block;
+  background-color: #a8541f;
+  color: #ffffff;
+  font-size: 1.25 rem;
+  padding: 16 px 32 px;
+  border-radius: 4 px;
+  margin-top: 24 px;
+}
